@@ -1,3 +1,19 @@
+<div align="center">
+
+# 👨‍💻 Mustafa Ezzeldein
+### AI & Intelligent Systems Engineer
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=58a6ff)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&logo=pytorch&logoColor=58a6ff)
+![NLP](https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=tensorflow&logoColor=58a6ff)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff)
+![FPGA](https://img.shields.io/badge/FPGA%20%26%20Embedded%20AI-0d1117?style=for-the-badge&logo=intel&logoColor=58a6ff)
+
+</div>
+
+---
+
 ## 👋 About Me
 
 I'm **Mustafa Ezzeldein**, a final-year **AI & Intelligent Systems Engineering** student at **Menoufia University**, Egypt. I build intelligent systems that sit at the intersection of software and hardware — from training deep learning models to deploying them on embedded and FPGA-based platforms.
@@ -93,7 +109,7 @@ I'm passionate about pushing the boundaries of what AI can do, not just in the c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%"/>
+---
 
 *"Intelligence is the ability to adapt to change." — Stephen Hawking*
 
